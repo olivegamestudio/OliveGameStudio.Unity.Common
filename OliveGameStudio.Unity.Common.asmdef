@@ -1,5 +1,5 @@
 {
-    "name": "OliveGameStudio.Common.Unity",
+    "name": "OliveGameStudio.Unity.Common",
     "rootNamespace": "",
     "references": [
         "Unity.Localization",
